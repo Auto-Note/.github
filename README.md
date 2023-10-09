@@ -1,2 +1,0 @@
-# .github
-AutoNote organization README
